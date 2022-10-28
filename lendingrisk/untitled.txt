@@ -29,3 +29,8 @@
     delinquency_2years        借款人过去2年信用档案中逾期30天以上的违约事件数
     ficoRangeLow              贷款发放时的fico所属的下限范围
     n0 —n14
+
+'id', 'loanAmnt', 'interestRate', 'installment', 'employmentTitle',
+ 'annualIncome', 'isDefault', 'dti', 'delinquency_2years', 'ficoRangeLow', 'ficoRangeHigh',
+ 'openAcc', 'pubRec', 'pubRecBankruptcies', 'revolBal', 'revolUtil', 'totalAcc', 'n0',
+ 'n1', 'n2', 'n3', 'n4', 'n5', 'n6', 'n7', 'n8', 'n9', 'n10', 'n11', 'n12', 'n13', 'n14'
